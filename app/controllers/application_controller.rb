@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
   
   def goobay
-    render html: "goodbay,fucker"
+    render html: "こんにちは、赤ちゃん"
   end
 end
